@@ -27,4 +27,3 @@
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.FBX filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
-/Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Floor_TopFloor.fbm/carpetColor filter=lfs diff=lfs merge=lfs -text
