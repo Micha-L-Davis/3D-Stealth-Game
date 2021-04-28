@@ -21,10 +21,10 @@
 *.flare filter=lfs diff=lfs merge=lfs -text
 *.prefab filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
-/Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Floor_TopFloor.fbm/carpetColor filter=lfs diff=lfs merge=lfs -text
 *.exr filter=lfs diff=lfs merge=lfs -text
 *.compute filter=lfs diff=lfs merge=lfs -text
 *.cginc filter=lfs diff=lfs merge=lfs -text
 *.tga filter=lfs diff=lfs merge=lfs -text
 *.FBX filter=lfs diff=lfs merge=lfs -text
 *.json filter=lfs diff=lfs merge=lfs -text
+/Assets/The Great Fleece/Game/Models/Dont_Touch/Level/Floor_TopFloor.fbm/carpetColor filter=lfs diff=lfs merge=lfs -text
